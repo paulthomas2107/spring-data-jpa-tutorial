@@ -1,0 +1,1 @@
+package com.dailycodebuffer.spring.data.jpa.tutorial.entity;
